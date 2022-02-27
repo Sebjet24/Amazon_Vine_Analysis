@@ -17,11 +17,19 @@ Over 3 million reviews were captured in the dataset. We needed to filter the dat
  - Count of Total Votes equal or greater than 20. 
  - Percent of Helpful Votes to Total Votes equal or greater than 50%. 
 
+![DataGreater20_50](https://user-images.githubusercontent.com/91230277/155895957-792d3157-f1e7-4356-a6d5-f1403294eeed.png)
+
 The total number of reviews was lowered from 3 million to 50.7 thousand as a result of the findings. As a result, we were able to answer the following questions:
 
 ### 1. How many Vine reviews and non-Vine reviews were there?
 
  - Only 2.1 percent (1,080) of the reviews were from **Vine** members, while the rest 97.9% were from **Non-Vine** members (49,659).
+
+![VineNonVineTotal](https://user-images.githubusercontent.com/91230277/155895970-95bd9329-763b-4b97-9f9c-e0f7fe007c4f.png)
+
+![Vine](https://user-images.githubusercontent.com/91230277/155895990-92d05e9e-9e7e-4d7b-ac05-d4c6b93a39b4.png)
+
+![NonVine](https://user-images.githubusercontent.com/91230277/155895976-20cd5185-a0ed-473a-807b-8df6c8315f27.png)
 
 ### 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
 
@@ -35,6 +43,8 @@ The total number of reviews was lowered from 3 million to 50.7 thousand as a res
 
 ## Summary
 
-The data reveal that **Vine** members were not biased when evaluating their items, despite the fact that the number of 5-star ratings was around 10% lower than **Non-Vine** members (42 percent vs. 46.4 percent ). As a result, we may suppose Vine consumers are more critical when writing reviews. However, rather than restricting the data to a proportion of helpful vs. total votes as we did for this research, we should include all of the data to further support this claim. Examining the data as is would provide us with more information and allow us to strengthen our hypothesis, as illustrated below.
+The data reveal that **Vine** members were not biased when evaluating their items, despite the fact that the number of 5-star ratings was around 10% lower than **Non-Vine** members (42 percent vs. 46.4 percent ). As a result, we may suppose Vine consumers are more critical when writing reviews. However, rather than restricting the data to a proportion of helpful vs. total votes as we did for this research, we should include all of the data to further support this claim. Examining the data as is would provide us with more information and allow us to strengthen our hypothesis, as illustrated below:
+
+![nonfilteredtotal](https://user-images.githubusercontent.com/91230277/155895998-a147e35d-731c-46a4-8e19-ac08693c405a.png)
 
 Furthermore, repeating the research with datasets from multiple product categories can provide us a complete picture of whether or not reviews written by **Vine** members are biased.
